@@ -1,3 +1,7 @@
+import os # Import the os module 
+os.system ("pip install discord.py") # Install discord.py
+os.system ("pip install discord") # Install discord
+os.system ("pip install mysql.connector") # Install mysql.connector
 import discord # Import the discord library
 from discord.ext import commands # Import the commands library
 import mysql.connector # Import the mysql connector
